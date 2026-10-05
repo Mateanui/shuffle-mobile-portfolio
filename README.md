@@ -25,3 +25,5 @@ My work on the mobile application has included:
 - Expo
 - TypeScript
 - Git / GitHub
+
+[View Shuffle Mobile case study](https://github.com/Mateanui/shuffle-mobile-portfolio)
