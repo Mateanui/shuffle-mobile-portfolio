@@ -19,7 +19,7 @@ My work on the mobile application has included:
 - Expo and native dependency alignment
 - Project configuration and development cleanup
 
-- ## Technologies
+## Technologies
 
 - React Native
 - Expo
